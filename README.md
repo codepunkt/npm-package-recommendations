@@ -2,36 +2,36 @@
 
 ### npm scripts
 
-| Name | Website | Desciption |
-| :- | :- | :- |
-| [shx](https://github.com/shelljs/shx) | - | Unix-like, cross-platform commands |
-| [cross-env](https://github.com/kentcdodds/cross-env) | - | Set and use environment variables across platforms |
+| Name<br>(Website) | Desciption |
+| :- | :- |
+| [shx](https://github.com/shelljs/shx) |Unix-like, cross-platform commands |
+| [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
 
 ### webpack
 
-| Name | Website | Desciption |
-| :- | :- | :- |
-| [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | - | Uses nodemon to start and reload a server |
-| [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | - | Helps you with the management of open source dependencies |
+| Name<br>(Website) | Desciption |
+| :- | :- |
+| [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
+| [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
 
 ### utility
 
-| Name | Website | Desciption |
-| :- | :- | :- |
-| [date-fns](https://github.com/date-fns/date-fns) | https://date-fns.org/ | Date utility library |
-| [lodash](https://github.com/lodash/lodash) | https://lodash.com/ | Generic utility library |
+| Name<br>(Website) | Desciption |
+| :- | :- |
+| [date-fns](https://github.com/date-fns/date-fns) <br> https://date-fns.org/ | Date utility library |
+| [lodash](https://github.com/lodash/lodash) <br> https://lodash.com/ | Generic utility library |
 
 ### react
 
 
-| Name | Website | Desciption |
-| :- | :- | :- |
-| [create-react-app](https://github.com/facebook/create-react-app) | https://facebook.github.io/create-react-app/ | Set up a react app with a single command |
-| [@rescripts/cli](https://github.com/harrysolovay/rescripts) | - | Allow custom build configurations for an app created with create-react-app |
-| [react-router](https://github.com/ReactTraining/react-router) | https://reacttraining.com/react-router/ | Most used routing library |
-| [navi](https://github.com/frontarm/navi) | https://frontarm.com/navi/en/ | Routing library with focus on asynchronous routing & data fetching |
-| [@reach/router](https://github.com/reach/router) | https://reach.tech/router | Routing library with focus on a11y |
-| [react-helmet](https://github.com/nfl/react-helmet) | - | Manage changes to the document head |
+| Name<br>(Website) | Desciption |
+| :- | :- |
+| [create-react-app](https://github.com/facebook/create-react-app) <br> https://facebook.github.io/create-react-app/ | Set up a react app with a single command |
+| [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
+| [react-router](https://github.com/ReactTraining/react-router) <br> https://reacttraining.com/react-router/ | Most used routing library |
+| [navi](https://github.com/frontarm/navi) <br> https://frontarm.com/navi/en/ | Routing library with focus on asynchronous routing & data fetching |
+| [@reach/router](https://github.com/reach/router) <br> https://reach.tech/router | Routing library with focus on a11y |
+| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
 ### CSS-in-JS
 
