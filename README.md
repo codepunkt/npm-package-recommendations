@@ -28,6 +28,10 @@
 | :- | :- |
 | [create-react-app](https://github.com/facebook/create-react-app) | Set up a react app with a single command |
 | [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
+| [react-router](https://github.com/ReactTraining/react-router) | Most used routing library |
+| [navi](https://github.com/frontarm/navi) | Routing library with focus on asynchronous routing & data fetching |
+| [@reach/router](https://github.com/reach/router) | Routing library with focus on a11y |
+| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
 ### css-in-js
 
