@@ -6,6 +6,7 @@
 | :- | :- |
 | [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
 | [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
+| [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
 
 ## Npm script helpers
 
