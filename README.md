@@ -1,37 +1,47 @@
 > A list of personal npm package recommendations
 
-### npm scripts
+### Project tooling
+
+| Name | Desciption |
+| :- | :- |
+| [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
+| [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
+
+### Npm script helpers
 
 | Name | Desciption |
 | :- | :- |
 | [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
 | [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
 
-### webpack
+### Webpack plugins
 
 | Name | Desciption |
 | :- | :- |
 | [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
 | [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
 
-### utility
+### JavaScript utility libraries
 
 | Name | Desciption |
 | :- | :- |
 | [date-fns](https://date-fns.org/) | Date utility library |
 | [lodash](https://lodash.com/) | Generic utility library |
 
-### react
-
+### React
 
 | Name | Desciption |
 | :- | :- |
 | [create-react-app](https://facebook.github.io/create-react-app/) | Set up a react app with a single command |
 | [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
+| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
+
+##### Routing
+| Name | Desciption |
+| :- | :- |
 | [react-router](https://reacttraining.com/react-router/) | Most used routing library |
 | [navi](https://frontarm.com/navi/en/) | Routing library with focus on asynchronous routing & data fetching |
 | [@reach/router](https://reach.tech/router) | Routing library with focus on a11y |
-| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
 ### CSS-in-JS
 
