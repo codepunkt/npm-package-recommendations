@@ -1,26 +1,5 @@
 > A list of personal npm package recommendations
 
-## Project tooling
-
-| Name | Desciption |
-| :- | :- |
-| [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
-| [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
-| [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
-
-## Npm script helpers
-
-| Name | Desciption |
-| :- | :- |
-| [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
-| [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
-
-## Webpack plugins
-
-| Name | Desciption |
-| :- | :- |
-| [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
-| [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
 
 ## JavaScript utility libraries
 
@@ -59,3 +38,25 @@
 | [debug](https://github.com/visionmedia/debug) | Debugging utility modeled after Node.js core's debugging technique |
 | [express](https://expressjs.com/) |  Most used web framework |
 | [helmet](https://helmetjs.github.io/) | Security toolbox for express web apps |
+
+## Project tooling
+
+| Name | Desciption |
+| :- | :- |
+| [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
+| [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
+| [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
+
+## Npm script helpers
+
+| Name | Desciption |
+| :- | :- |
+| [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
+| [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
+
+## Webpack plugins
+
+| Name | Desciption |
+| :- | :- |
+| [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
+| [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
