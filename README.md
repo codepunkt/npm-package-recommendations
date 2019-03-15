@@ -44,8 +44,10 @@
 | Name | Desciption |
 | :- | :- |
 | [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
+| [commitlint](https://conventional-changelog.github.io/commitlint/) | Helps adhering to commit conventions by linting commit messages |
 | [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
 | [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
+| [lerna](https://lernajs.io/) | A tool for managing JavaScript projects with multiple packages |
 
 ## Npm script helpers
 
