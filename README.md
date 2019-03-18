@@ -62,7 +62,7 @@
 
 | Name | Desciption |
 | :- | :- |
-| [bundlesize](https://github.com/siddharthkp/bundlesize) | Checks bundle sizes |
+| [bundlesize](https://github.com/siddharthkp/bundlesize) | Enables a build step that checks bundle sizes |
 
 ## Npm script helpers
 
