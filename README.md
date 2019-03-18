@@ -31,6 +31,12 @@
 | [polished](https://polished.js.org/) | A lightweight toolset for writing styles in JavaScript |
 | [rebass](https://rebassjs.org/) | React primitive UI components built with styled-system |
 
+## Testing
+
+| Name | Desciption |
+| :- | :- |
+| [jest](https://jestjs.io/) | JavaScript testing framework |
+
 ## GraphQL
 
 | Name | Desciption |
