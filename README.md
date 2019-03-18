@@ -54,6 +54,15 @@
 | [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
 | [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
 | [lerna](https://lernajs.io/) | A tool for managing JavaScript projects with multiple packages |
+| [size-limit](https://github.com/ai/size-limit) | Enables a build step that checks bundle sizes |
+
+#### Github applications
+
+> Applications that can be embedded into github workflows (automatically commenting on PRs etc)
+
+| Name | Desciption |
+| :- | :- |
+| [bundlesize](https://github.com/siddharthkp/bundlesize) | Checks bundle sizes |
 
 ## Npm script helpers
 
