@@ -56,9 +56,15 @@
 
 | Name | Desciption |
 | :- | :- |
-| [debug](https://github.com/visionmedia/debug) | Debugging utility modeled after Node.js core's debugging technique |
 | [express](https://expressjs.com/) |  Most used web framework |
 | [helmet](https://helmetjs.github.io/) | Security toolbox for express web apps |
+
+#### Logging
+| Name | Desciption |
+| :- | :- |
+| [debug](https://github.com/visionmedia/debug) | Debugging utility modeled after Node.js core's debugging technique |
+| [winston](https://github.com/winstonjs/winston) | Universal logging library, useable with multiple transports |
+| [pino](https://getpino.io/) | Low overhead logging with a focus on performance | 
 
 ## Project tooling
 
