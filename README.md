@@ -78,6 +78,7 @@
 | Name | Desciption |
 | :- | :- |
 | [bundlesize](https://github.com/siddharthkp/bundlesize) | Enables a build step that checks bundle sizes |
+| [renovate](https://renovatebot.com/) | Automates dependency updates in software projects |
 
 ## Npm script helpers
 
