@@ -7,6 +7,7 @@
 | :- | :- |
 | [date-fns](https://date-fns.org/) | Date utility library |
 | [lodash](https://lodash.com/) | Generic utility library |
+| [polished](https://polished.js.org/) | Styling utility library |
 
 ## React
 
@@ -36,7 +37,7 @@
 | Name | Desciption |
 | :- | :- |
 | [styled-components](https://www.styled-components.com/) | CSS-in-JS library for modular, component-based styling |
-| [polished](https://polished.js.org/) | A lightweight toolset for writing styles in JavaScript |
+| [emotion](https://emotion.sh/) | CSS-in-JS library for modular, component-based styling |
 | [rebass](https://rebassjs.org/) | React primitive UI components built with styled-system |
 
 ## Testing
