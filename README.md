@@ -16,6 +16,14 @@
 | [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
 | [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
+#### Forms
+
+| Name | Desciption |
+| :- | :- |
+| [formik](https://jaredpalmer.com/formik/) | Most widely adopted form library |
+| [react-final-form](https://github.com/final-form/react-final-form) | Alternative form library |
+| [redux-form](https://redux-form.com/8.1.0/) | Form handling for redux |
+
 #### Routing
 | Name | Desciption |
 | :- | :- |
