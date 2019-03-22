@@ -17,14 +17,6 @@
 | [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
 | [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
-#### Forms
-
-| Name | Desciption |
-| :- | :- |
-| [formik](https://jaredpalmer.com/formik/) | Most widely adopted form library |
-| [react-final-form](https://github.com/final-form/react-final-form) | Alternative form library |
-| [redux-form](https://redux-form.com/8.1.0/) | Form handling for redux |
-
 #### Routing
 | Name | Desciption |
 | :- | :- |
@@ -39,6 +31,23 @@
 | [styled-components](https://www.styled-components.com/) | CSS-in-JS library for modular, component-based styling |
 | [emotion](https://emotion.sh/) | CSS-in-JS library for modular, component-based styling |
 | [rebass](https://rebassjs.org/) | React primitive UI components built with styled-system |
+
+#### Forms
+
+| Name | Desciption |
+| :- | :- |
+| [formik](https://jaredpalmer.com/formik/) | Most widely adopted form library |
+| [react-final-form](https://github.com/final-form/react-final-form) | Alternative form library |
+| [redux-form](https://redux-form.com/8.1.0/) | Form handling for redux |
+
+#### State Management
+
+| Name | Desciption |
+| :- | :- |
+| [redux](https://redux.js.org/) | Predictable, unidirectional data flow state management based on the flux pattern |
+| [mobx](https://mobx.js.org/) | Functional reactive programming state management |
+| [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) | Model driven state management |
+| [redux-observable](https://redux-observable.js.org/) | RxJS based middleware for redux |
 
 ## Testing
 
