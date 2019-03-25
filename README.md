@@ -93,8 +93,11 @@
 | Name | Desciption |
 | :- | :- |
 | [bundlesize](https://github.com/siddharthkp/bundlesize) | Enables a build step that checks bundle sizes |
+| [dependabot](https://dependabot.com/) | Creates pull requests to keep dependencies secure and up-to-date |
+| [snyk](https://snyk.io/) |  Automates finding & fixing vulnerabilities in your dependencies |
 | [renovate](https://renovatebot.com/) | Automates dependency updates in software projects |
 | [greenkeeper](https://greenkeeper.io/) | Real-time monitoring and automatic updates for npm dependencies |
+| [codecov](https://codecov.io/) | Tools to group, merge and compare coverage reports |
 
 ## Npm script helpers
 
