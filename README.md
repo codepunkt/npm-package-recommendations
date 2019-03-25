@@ -62,6 +62,12 @@
 | :- | :- |
 | [graphql-code-generator](https://graphql-code-generator.com/) | Generate code from your graphql schema |
 
+## Asynchronous Requests
+
+| Name | Desciption |
+| :- | :- |
+| [axios](https://github.com/axios/axios) | Promise-based http client with a lot of options |
+
 ## Node.js
 
 | Name | Desciption |
