@@ -7,6 +7,7 @@
 | :- | :- |
 | [date-fns](https://date-fns.org/) | Date utility library |
 | [lodash](https://lodash.com/) | Generic utility library |
+| [ramda](https://ramdajs.com/) | Functional utility library |
 | [polished](https://polished.js.org/) | Styling utility library |
 
 ## React
