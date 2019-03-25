@@ -86,6 +86,8 @@
 
 | Name | Desciption |
 | :- | :- |
+| [prettier](https://prettier.io/) | Code formatter |
+| [eslint](https://eslint.org/) | Code linter |
 | [husky](https://github.com/typicode/husky) | Define git hooks in package.json |
 | [commitlint](https://conventional-changelog.github.io/commitlint/) | Helps adhering to commit conventions by linting commit messages |
 | [lint-staged](https://github.com/okonet/lint-staged) | Runs linters, formatters or other commands on staged files |
