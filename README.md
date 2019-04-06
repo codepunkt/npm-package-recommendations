@@ -31,6 +31,7 @@
 | :- | :- |
 | [styled-components](https://www.styled-components.com/) | CSS-in-JS library for modular, component-based styling |
 | [emotion](https://emotion.sh/) | CSS-in-JS library for modular, component-based styling |
+| [linaria](https://github.com/callstack/linaria) | Zero runtime css in js library |
 | [rebass](https://rebassjs.org/) | React primitive UI components built with styled-system |
 
 #### Forms
