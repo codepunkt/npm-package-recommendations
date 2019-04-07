@@ -116,10 +116,29 @@
 | [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
 | [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
 
-## Webpack plugins
+## Build tools
+
+| Name | Desciption |
+| :- | :- |
+| [webpack](https://webpack.js.org/) | Highly configurable asset bundler |
+| [babel](https://babeljs.io/) | JavaScript compiler |
+| [rollup](https://rollupjs.org/guide/en) | Module bundler |
+| [sucrase](https://sucrase.io/) | Super fast babel alternative |
+| [swc](https://swc-project.github.io/) | Another fast babel alternative |
+
+#### Webpack plugins
 
 | Name | Desciption |
 | :- | :- |
 | [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Visualizes size of webpack output files with an interactive treemap |
 | [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
 | [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
+
+#### Babel plugins & presets
+
+| Name | Desciption |
+| :- | :- |
+| [babel-preset-env](https://babeljs.io/docs/en/babel-preset-env) | Automatically target compile environments |
+| [babel-plugin-macros](https://www.npmjs.com/package/babel-plugin-macros) | Allows you to build compile-time libraries without having to add a babel plugin |
+| [babel-preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript) | Preset used to compile typescript with babel |
+
