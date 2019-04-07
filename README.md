@@ -85,13 +85,15 @@
 | [winston](https://github.com/winstonjs/winston) | Universal logging library, useable with multiple transports |
 | [pino](https://getpino.io/) | Low overhead logging with a focus on performance | 
 
-## Command-line tooling
+# Tooling
 
+## Commandline
 | Name | Desciption |
 | :- | :- |
 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Human readable terminal diffs | 
 
-## Project tooling
+## Project
+> JavaScript project tooling
 
 | Name | Desciption |
 | :- | :- |
@@ -104,8 +106,7 @@
 | [lerna](https://lernajs.io/) | A tool for managing JavaScript projects with multiple packages |
 | [size-limit](https://github.com/ai/size-limit) | Enables a build step that checks bundle sizes |
 
-#### Github applications
-
+## Github
 > Applications that can be embedded into github workflows (automatically commenting on PRs etc)
 
 | Name | Desciption |
@@ -117,15 +118,7 @@
 | [greenkeeper](https://greenkeeper.io/) | Real-time monitoring and automatic updates for npm dependencies |
 | [codecov](https://codecov.io/) | Tools to group, merge and compare coverage reports |
 
-#### Npm script helpers
-
-| Name | Desciption |
-| :- | :- |
-| [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
-| [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
-
-## Build tooling
-
+## Build
 | Name | Desciption |
 | :- | :- |
 | [webpack](https://webpack.js.org/) | Highly configurable asset bundler |
@@ -134,19 +127,22 @@
 | [sucrase](https://sucrase.io/) | Super fast babel alternative |
 | [swc](https://swc-project.github.io/) | Another fast babel alternative |
 
-#### Webpack plugins
-
+### Webpack plugins
 | Name | Desciption |
 | :- | :- |
 | [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Visualizes size of webpack output files with an interactive treemap |
 | [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) | Uses nodemon to start and reload a server |
 | [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) | Helps you with the management of open source dependencies |
 
-#### Babel plugins & presets
-
+### Babel plugins & presets
 | Name | Desciption |
 | :- | :- |
 | [babel-preset-env](https://babeljs.io/docs/en/babel-preset-env) | Automatically target compile environments |
 | [babel-plugin-macros](https://www.npmjs.com/package/babel-plugin-macros) | Allows you to build compile-time libraries without having to add a babel plugin |
 | [babel-preset-typescript](https://babeljs.io/docs/en/babel-preset-typescript) | Preset used to compile typescript with babel |
 
+## Npm scripts
+| Name | Desciption |
+| :- | :- |
+| [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
+| [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
