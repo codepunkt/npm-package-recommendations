@@ -78,11 +78,18 @@
 | [helmet](https://helmetjs.github.io/) | Security toolbox for express web apps |
 
 #### Logging
+
 | Name | Desciption |
 | :- | :- |
 | [debug](https://github.com/visionmedia/debug) | Debugging utility modeled after Node.js core's debugging technique |
 | [winston](https://github.com/winstonjs/winston) | Universal logging library, useable with multiple transports |
 | [pino](https://getpino.io/) | Low overhead logging with a focus on performance | 
+
+## Command-line tooling
+
+| Name | Desciption |
+| :- | :- |
+| [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Human readable terminal diffs | 
 
 ## Project tooling
 
@@ -110,14 +117,14 @@
 | [greenkeeper](https://greenkeeper.io/) | Real-time monitoring and automatic updates for npm dependencies |
 | [codecov](https://codecov.io/) | Tools to group, merge and compare coverage reports |
 
-## Npm script helpers
+#### Npm script helpers
 
 | Name | Desciption |
 | :- | :- |
 | [shx](https://github.com/shelljs/shx) | Unix-like, cross-platform commands |
 | [cross-env](https://github.com/kentcdodds/cross-env) | Set and use environment variables across platforms |
 
-## Build tools
+## Build tooling
 
 | Name | Desciption |
 | :- | :- |
