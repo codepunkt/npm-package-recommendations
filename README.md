@@ -56,6 +56,7 @@
 | Name | Desciption |
 | :- | :- |
 | [jest](https://jestjs.io/) | JavaScript testing framework |
+| [cypress](https://www.cypress.io/) | JavaScript end to end testing framework, running in Chrome |
 
 ## GraphQL
 
