@@ -24,6 +24,7 @@
 - [react-helmet](https://github.com/nfl/react-helmet) - Manage changes to the document head
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
 - [nivo](https://nivo.rocks/) - Rich set of dataviz components, built on top of d3
+- [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 
 ### Routing
 - [react-router](https://reacttraining.com/react-router/) - Most used routing library
