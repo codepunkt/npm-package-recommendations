@@ -11,6 +11,10 @@
 ## Data viz
 - [d3](https://d3js.org/) - Data visualization library
 
+## Animation
+- [greensock](https://greensock.com/) - Site of tools for scripted, high-performance animations in all major browsers
+- [anime](https://animejs.com/) - JavaScript animation engine
+
 ## React
 
 ### Boilerplates
@@ -25,6 +29,7 @@
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
 - [nivo](https://nivo.rocks/) - Rich set of dataviz components, built on top of d3
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
+- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
 ### Routing
 - [react-router](https://reacttraining.com/react-router/) - Most used routing library
