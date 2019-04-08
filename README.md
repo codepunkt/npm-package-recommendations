@@ -1,7 +1,7 @@
 > A list of personal npm package recommendations
 
 
-## JavaScript utility libraries
+# Utility libraries
 
 | Name | Desciption |
 | :- | :- |
@@ -10,22 +10,33 @@
 | [ramda](https://ramdajs.com/) | Functional utility library |
 | [polished](https://polished.js.org/) | Styling utility library |
 
+# Frontend
+
 ## React
 
+### Boilerplates
 | Name | Desciption |
 | :- | :- |
 | [create-react-app](https://facebook.github.io/create-react-app/) | Set up a react app with a single command |
+| [next.js](https://nextjs.org/) | Server-rendered react framework |
+| [gatsby](https://www.gatsbyjs.org/) | Site generator for React |
+| [react-static](https://github.com/nozzle/react-static) | A progressive static site generator for React |
 | [@rescripts/cli](https://github.com/harrysolovay/rescripts) | Allow custom build configurations for an app created with create-react-app |
-| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 
-#### Routing
+### Components
+| Name | Desciption |
+| :- | :- |
+| [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
+| [downshift](https://github.com/downshift-js/downshift) | Primitive to build simple, flexible, enhanced input React components |
+
+### Routing
 | Name | Desciption |
 | :- | :- |
 | [react-router](https://reacttraining.com/react-router/) | Most used routing library |
 | [navi](https://frontarm.com/navi/en/) | Routing library with focus on asynchronous routing & data fetching |
 | [@reach/router](https://reach.tech/router) | Routing library with focus on a11y |
 
-#### CSS-in-JS
+### CSS-in-JS
 
 | Name | Desciption |
 | :- | :- |
@@ -34,7 +45,7 @@
 | [linaria](https://github.com/callstack/linaria) | Zero runtime css in js library |
 | [rebass](https://rebassjs.org/) | React primitive UI components built with styled-system |
 
-#### Forms
+### Forms
 
 | Name | Desciption |
 | :- | :- |
@@ -42,7 +53,7 @@
 | [react-final-form](https://github.com/final-form/react-final-form) | Alternative form library |
 | [redux-form](https://redux-form.com/8.1.0/) | Form handling for redux |
 
-#### State Management
+### State Management
 
 | Name | Desciption |
 | :- | :- |
@@ -51,14 +62,14 @@
 | [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) | Model driven state management |
 | [redux-observable](https://redux-observable.js.org/) | RxJS based middleware for redux |
 
-## Testing
+# Testing
 
 | Name | Desciption |
 | :- | :- |
 | [jest](https://jestjs.io/) | JavaScript testing framework |
 | [cypress](https://www.cypress.io/) | JavaScript end to end testing framework, running in Chrome |
 
-## GraphQL
+# GraphQL
 
 | Name | Desciption |
 | :- | :- |
@@ -66,13 +77,14 @@
 | [urql](https://github.com/FormidableLabs/urql) | Customizable GraphQL client for react |
 | [graphql-code-generator](https://graphql-code-generator.com/) | Generate code from your graphql schema |
 
-## XHR
+# XHR
 
 | Name | Desciption |
 | :- | :- |
 | [axios](https://github.com/axios/axios) | Promise-based http client with a lot of options |
 | [cross-fetch](https://github.com/lquixada/cross-fetch) | Universal WHATWG Fetch API for Node, Browsers and React Native |
 | [make-fetch-happen](https://github.com/zkat/make-fetch-happen) | Nodejs fetch with additional features including HTTP Cache support, request pooling, proxies, retries etc |
+| [needle](https://github.com/tomas/needle) | Streamable HTTP client |
 
 # Node.js
 
