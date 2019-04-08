@@ -17,6 +17,7 @@
 
 ## Canvas
 - [three.js](https://threejs.org/) - JavaScript 3D library
+- [fabric.js](http://fabricjs.com/) - Powerful and simple 2D canvas library
 
 ## React
 
@@ -139,6 +140,7 @@
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Visualizes size of webpack output files with an interactive treemap
 - [nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) - Uses nodemon to start and reload a server
 - [webpack-license-plugin](https://github.com/codepunkt/webpack-license-plugin) - Helps you with the management of open source dependencies
+- [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - Remove your build folder before building
 
 ### Babel plugins & presets
 - [babel-preset-env](https://babeljs.io/docs/en/babel-preset-env) - Automatically target compile environments
