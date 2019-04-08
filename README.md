@@ -70,15 +70,24 @@
 | :- | :- |
 | [axios](https://github.com/axios/axios) | Promise-based http client with a lot of options |
 
-## Node.js
+# Node.js
 
 | Name | Desciption |
 | :- | :- |
-| [express](https://expressjs.com/) |  Most used web framework |
+| [express](https://expressjs.com/) | Fast, unopinionated, minimalist web framework - most used |
+| [hapi](https://hapijs.com/) | A rich framework for building applications and services |
+| [koa](https://github.com/koajs/koa) | Next generation web framework from the team behind express |
 | [helmet](https://helmetjs.github.io/) | Security toolbox for express web apps |
 
-#### Logging
+## Database
+| Name | Desciption |
+| :- | :- |
+| [mongoose](https://mongoosejs.com/) | Object modeling for MongoDB |
+| [mongoose-patch-history](https://github.com/codepunkt/mongoose-patch-history#readme) | Saves a history of JSON Patch operations for all documents belonging to a schema in an associated "patches" collection |
+| [sequelize](http://docs.sequelizejs.com/) | ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server | 
+| [knex](https://knexjs.org/) | SQL query builder |
 
+## Logging
 | Name | Desciption |
 | :- | :- |
 | [debug](https://github.com/visionmedia/debug) | Debugging utility modeled after Node.js core's debugging technique |
