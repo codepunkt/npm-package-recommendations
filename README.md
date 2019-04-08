@@ -78,6 +78,11 @@
 
 | Name | Desciption |
 | :- | :- |
+| [node-re2](https://github.com/uhop/node-re2) | fast, safe alternative to backtracking regular expression engines |
+
+## Web frameworks
+| Name | Desciption |
+| :- | :- |
 | [express](https://expressjs.com/) | Fast, unopinionated, minimalist web framework - most used |
 | [hapi](https://hapijs.com/) | A rich framework for building applications and services |
 | [koa](https://github.com/koajs/koa) | Next generation web framework from the team behind express |
