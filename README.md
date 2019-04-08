@@ -106,6 +106,7 @@
 | [standard-version](https://github.com/conventional-changelog/standard-version) | Automatic semantic versioning and CHANGELOG generation |
 | [lerna](https://lernajs.io/) | A tool for managing JavaScript projects with multiple packages |
 | [size-limit](https://github.com/ai/size-limit) | Enables a build step that checks bundle sizes |
+| [plop](https://plopjs.com/) | Template-based code generator framework |
 
 ## Github
 > Applications that can be embedded into github workflows (automatically commenting on PRs etc)
