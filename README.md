@@ -62,13 +62,17 @@
 
 | Name | Desciption |
 | :- | :- |
+| [apollo](https://www.apollographql.com/docs) | GraphQL implementation for client & server |
+| [urql](https://github.com/FormidableLabs/urql) | Customizable GraphQL client for react |
 | [graphql-code-generator](https://graphql-code-generator.com/) | Generate code from your graphql schema |
 
-## Asynchronous Requests
+## XHR
 
 | Name | Desciption |
 | :- | :- |
 | [axios](https://github.com/axios/axios) | Promise-based http client with a lot of options |
+| [cross-fetch](https://github.com/lquixada/cross-fetch) | Universal WHATWG Fetch API for Node, Browsers and React Native |
+| [make-fetch-happen](https://github.com/zkat/make-fetch-happen) | Nodejs fetch with additional features including HTTP Cache support, request pooling, proxies, retries etc |
 
 # Node.js
 
