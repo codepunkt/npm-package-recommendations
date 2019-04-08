@@ -15,6 +15,9 @@
 - [greensock](https://greensock.com/) - Site of tools for scripted, high-performance animations in all major browsers
 - [anime](https://animejs.com/) - JavaScript animation engine
 
+## Canvas
+- [three.js](https://threejs.org/) - JavaScript 3D library
+
 ## React
 
 ### Boilerplates
