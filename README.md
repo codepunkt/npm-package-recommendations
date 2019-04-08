@@ -72,7 +72,11 @@
 - [needle](https://github.com/tomas/needle) - Streamable HTTP client
 
 # Node.js
+
+## Misc
 - [node-re2](https://github.com/uhop/node-re2) - fast, safe alternative to backtracking regular expression engines
+- [dotenv](https://github.com/expressjs/morgan) - load environment variables from .env file
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken#readme) - JSON web token implementation
 
 ## Web frameworks
 - [express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework) - most used
@@ -83,19 +87,20 @@
 ## Database
 - [mongoose](https://mongoosejs.com/) - Object modeling for MongoDB
 - [mongoose-patch-history](https://github.com/codepunkt/mongoose-patch-history#readme) - Saves a history of JSON Patch operations for all documents belonging to a schema in an associated "patches" collection
-- [sequelize](http://docs.sequelizejs.com/) - ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server | 
+- [sequelize](http://docs.sequelizejs.com/) - ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server
 - [knex](https://knexjs.org/) - SQL query builder
 
 ## Logging
 - [debug](https://github.com/visionmedia/debug) - Debugging utility modeled after Node.js core's debugging technique
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware
 - [winston](https://github.com/winstonjs/winston) - Universal logging library, useable with multiple transports
-- [pino](https://getpino.io/) - Low overhead logging with a focus on performance | 
+- [pino](https://getpino.io/) - Low overhead logging with a focus on performance
 
 # Tooling
 
 ## Commandline
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Human readable terminal diffs | 
-- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages | 
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Human readable terminal diffs
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 
 ## Project
 > JavaScript project tooling
