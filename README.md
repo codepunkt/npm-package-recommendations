@@ -12,6 +12,11 @@
 
 # Frontend
 
+## Data viz
+| Name | Desciption |
+| :- | :- |
+| [d3](https://d3js.org/) | Data visualization library |
+
 ## React
 
 ### Boilerplates
@@ -28,6 +33,7 @@
 | :- | :- |
 | [react-helmet](https://github.com/nfl/react-helmet) | Manage changes to the document head |
 | [downshift](https://github.com/downshift-js/downshift) | Primitive to build simple, flexible, enhanced input React components |
+| [nivo](https://nivo.rocks/) | Rich set of dataviz components, built on top of d3 |
 
 ### Routing
 | Name | Desciption |
