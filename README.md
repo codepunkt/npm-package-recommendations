@@ -1,4 +1,4 @@
-> A list of personal npm package recommendations
+> A list of personal npm package recommendations and alternatives
 
 # Utility libraries
 - [date-fns](https://date-fns.org/) - Date utility library
