@@ -33,6 +33,7 @@
 #### Component libraries
 - [material-ui](https://material-ui.com/) - React components that implement Google's material design
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
+- [atlaskit](https://atlaskit.atlassian.com/) - Technical implementation of Atlassians UI guidelines as React components
 - [blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web
 - [react-bootstrap](https://react-bootstrap.github.io/) - React components for the most used CSS library in the world
 
