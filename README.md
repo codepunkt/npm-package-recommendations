@@ -61,6 +61,10 @@
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Model driven state management
 - [redux-observable](https://redux-observable.js.org/) - RxJS based middleware for redux
 
+### Animations
+- [react-pose](https://popmotion.io/pose/) - A simple, CSS-like animation library
+- [react-spring](https://redux-observable.js.org/) - A spring physics based React animation library
+
 # Testing
 
 - [jest](https://jestjs.io/) - JavaScript testing framework
