@@ -33,12 +33,15 @@
 #### Component libraries
 - [material-ui](https://material-ui.com/) - React components that implement Google's material design
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
+- [blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web
+- [react-bootstrap](https://react-bootstrap.github.io/) - React components for the most used CSS library in the world
 
 #### Data visualization
 - [nivo](https://nivo.rocks/) - Rich set of dataviz components, built on top of d3
 - [react-vis](https://uber.github.io/react-vis/) - A composable charting library
 - [vx](https://vx-demo.now.sh/) - A set of reusable low-level visualization components
 - [victory](https://formidable.com/open-source/victory/) - Components for modular charting and data visualization
+- [recharts](http://recharts.org/) - A composable charting library built on React components
 
 #### Maps
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
