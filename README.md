@@ -29,9 +29,6 @@
 - [react-static](https://github.com/nozzle/react-static) - A progressive static site generator for React
 
 ### Components
-- [react-helmet](https://github.com/nfl/react-helmet) - Manage changes to the document head
-- [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
-- [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
 
 #### Component libraries
 - [material-ui](https://material-ui.com/) - React components that implement Google's material design
@@ -50,6 +47,12 @@
 #### Virtualization
 - [react-window](https://github.com/bvaughn/react-window) - Components for efficiently rendering large lists and tabular data
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - Components for efficiently rendering large lists and tabular data
+
+#### Misc
+- [react-helmet](https://github.com/nfl/react-helmet) - Manage changes to the document head
+- [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
+- [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
+- [react-joyride](https://react-joyride.com/) - Create guided tours for your apps
 
 ### Component development
 - [storybook](https://storybook.js.org/) - Developing UI components in isolation
