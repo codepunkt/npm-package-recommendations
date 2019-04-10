@@ -35,6 +35,10 @@
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
+#### Virtualization
+- [react-window](https://github.com/bvaughn/react-window) - Components for efficiently rendering large lists and tabular data
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) - Components for efficiently rendering large lists and tabular data
+
 ### Component development
 - [storybook](https://storybook.js.org/) - Developing UI components in isolation
 - [styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment
@@ -64,6 +68,9 @@
 ### Animations
 - [react-pose](https://popmotion.io/pose/) - A simple, CSS-like animation library
 - [react-spring](https://redux-observable.js.org/) - A spring physics based React animation library
+
+### UI virtualization
+- [react-window]
 
 # Testing
 
