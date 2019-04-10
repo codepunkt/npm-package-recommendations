@@ -94,7 +94,7 @@
 
 ## Database
 - [mongoose](https://mongoosejs.com/) - Object modeling for MongoDB
-- [mongoose-patch-history](https://github.com/codepunkt/mongoose-patch-history#readme) - Saves a history of JSON Patch operations for all documents belonging to a schema in an associated "patches" collection
+- [mongoose-patch-history](https://github.com/codepunkt/mongoose-patch-history#readme) - Save a history of JSON patches in an associated "patches" collection
 - [sequelize](http://docs.sequelizejs.com/) - ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server
 - [knex](https://knexjs.org/) - SQL query builder
 
