@@ -22,7 +22,7 @@
 ## React
 
 ### Boilerplates
-- [create-react-app](https://facebook.github.io/create-react-app/) - Set up a react app with a single command
+- 🚀[create-react-app](https://facebook.github.io/create-react-app/) - Set up a react app with a single command
 - [@rescripts/cli](https://github.com/harrysolovay/rescripts) - Allow custom build configs for create-react-app applications
 - [next.js](https://nextjs.org/) - Server-rendered react framework
 - [gatsby](https://www.gatsbyjs.org/) - Site generator for React
