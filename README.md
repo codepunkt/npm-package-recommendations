@@ -22,8 +22,8 @@
 ## React
 
 ### Boilerplates
-- 🚀[create-react-app](https://facebook.github.io/create-react-app/) - Set up a react app with a single command
-- [@rescripts/cli](https://github.com/harrysolovay/rescripts) - Allow custom build configs for create-react-app applications
+- [create-react-app](https://facebook.github.io/create-react-app/) ⭐ - Set up a react app with a single command
+- [@rescripts/cli](https://github.com/harrysolovay/rescripts) ⭐ - Allow custom build configs for create-react-app applications
 - [next.js](https://nextjs.org/) - Server-rendered react framework
 - [gatsby](https://www.gatsbyjs.org/) - Site generator for React
 - [react-static](https://github.com/nozzle/react-static) - A progressive static site generator for React
@@ -31,25 +31,25 @@
 ### Components
 
 #### Component libraries
-- [material-ui](https://material-ui.com/) - React components that implement Google's material design
+- [material-ui](https://material-ui.com/) ⭐ - React components that implement Google's material design
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
 - [atlaskit](https://atlaskit.atlassian.com/) - Technical implementation of Atlassians UI guidelines as React components
 - [blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web
 - [react-bootstrap](https://react-bootstrap.github.io/) - React components for the most used CSS library in the world
 
 #### Data visualization
-- [nivo](https://nivo.rocks/) - Rich set of dataviz components, built on top of d3
+- [nivo](https://nivo.rocks/) ⭐ - Rich set of dataviz components, built on top of d3
 - [react-vis](https://uber.github.io/react-vis/) - A composable charting library
 - [vx](https://vx-demo.now.sh/) - A set of reusable low-level visualization components
 - [victory](https://formidable.com/open-source/victory/) - Components for modular charting and data visualization
 - [recharts](http://recharts.org/) - A composable charting library built on React components
 
 #### Maps
-- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
+- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) ⭐ - ReactJS maps without external dependencies
 - [react-leaflet](https://react-leaflet.js.org/) - An abstraction of Leaflet as React components
 
 #### Virtualization
-- [react-window](https://github.com/bvaughn/react-window) - Components for efficiently rendering large lists and tabular data
+- [react-window](https://github.com/bvaughn/react-window) ⭐ - Components for efficiently rendering large lists and tabular data
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - Components for efficiently rendering large lists and tabular data
 
 #### Tables/datagrids
@@ -57,55 +57,55 @@
 - [ag-grid](https://github.com/ag-grid/ag-grid) - Fully features, highly customizable data grid. Free and enterprise versions 
 
 #### Misc
-- [react-helmet](https://github.com/nfl/react-helmet) - Manage changes to the document head
+- [react-helmet](https://github.com/nfl/react-helmet) ⭐ - Manage changes to the document head
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
 - [react-joyride](https://react-joyride.com/) - Create guided tours for your apps
 
 ### Component development
-- [storybook](https://storybook.js.org/) - Developing UI components in isolation
+- [storybook](https://storybook.js.org/) ⭐ - Developing UI components in isolation
 - [styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment
 
 ### Routing
-- [react-router](https://reacttraining.com/react-router/) - Most used routing library
-- [navi](https://frontarm.com/navi/en/) - Routing library with focus on asynchronous routing & data fetching
+- [react-router](https://reacttraining.com/react-router/) ⭐ - Most used routing library
 - [@reach/router](https://reach.tech/router) - Routing library with focus on a11y
+- [navi](https://frontarm.com/navi/en/) - Routing library with focus on asynchronous routing & data fetching
 
 ### CSS-in-JS
-- [styled-components](https://www.styled-components.com/) - CSS-in-JS library for modular, component-based styling
+- [styled-components](https://www.styled-components.com/) ⭐ - CSS-in-JS library for modular, component-based styling
 - [emotion](https://emotion.sh/) - CSS-in-JS library for modular, component-based styling
 - [linaria](https://github.com/callstack/linaria) - Zero runtime css in js library
 - [rebass](https://rebassjs.org/) - React primitive UI components built with styled-system
 
 ### Forms
-- [formik](https://jaredpalmer.com/formik/) - Most widely adopted form library
+- [formik](https://jaredpalmer.com/formik/) ⭐ - Most widely adopted form library
 - [react-final-form](https://github.com/final-form/react-final-form) - Alternative form library
 - [redux-form](https://redux-form.com/8.1.0/) - Form handling for redux
 
 ### State Management
-- [redux](https://redux.js.org/) - Predictable, unidirectional data flow state management based on the flux pattern
+- [redux](https://redux.js.org/) ⭐ - Predictable, unidirectional data flow state management based on the flux pattern
 - [mobx](https://mobx.js.org/) - Functional reactive programming state management
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Model driven state management
 - [redux-observable](https://redux-observable.js.org/) - RxJS based middleware for redux
 
 ### Animations
-- [react-pose](https://popmotion.io/pose/) - A simple, CSS-like animation library
+- [react-pose](https://popmotion.io/pose/) ⭐ - A simple, CSS-like animation library
 - [react-spring](https://redux-observable.js.org/) - A spring physics based React animation library
 
 # Testing
 
-- [jest](https://jestjs.io/) - JavaScript testing framework
-- [cypress](https://www.cypress.io/) - JavaScript end to end testing framework, running in Chrome
+- [jest](https://jestjs.io/) ⭐ - JavaScript testing framework
+- [cypress](https://www.cypress.io/) ⭐ - JavaScript end to end testing framework, running in Chrome
 
 # Asynchronous Requests
 
 ## GraphQL
-- [apollo](https://www.apollographql.com/docs) - GraphQL implementation for client & server
+- [apollo](https://www.apollographql.com/docs) ⭐ - GraphQL implementation for client & server
 - [urql](https://github.com/FormidableLabs/urql) - Customizable GraphQL client for react
 - [graphql-code-generator](https://graphql-code-generator.com/) - Generate code from your graphql schema
 
 ## XHR
-- [axios](https://github.com/axios/axios) - Promise-based http client with a lot of options
+- [axios](https://github.com/axios/axios) ⭐ - Promise-based http client with a lot of options
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [make-fetch-happen](https://github.com/zkat/make-fetch-happen) - Nodejs fetch with HTTP Cache support, request pooling, proxies, retries etc
 - [needle](https://github.com/tomas/needle) - Streamable HTTP client
