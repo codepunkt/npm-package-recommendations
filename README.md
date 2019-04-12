@@ -82,6 +82,10 @@
 - [react-final-form](https://github.com/final-form/react-final-form) - Alternative form library
 - [redux-form](https://redux-form.com/8.1.0/) - Form handling for redux
 
+### I18N
+- [react-intl](https://github.com/yahoo/react-intl) ⭐ - React components and API to format dates, numbers, and strings, including pluralization
+- [fbt](https://facebookincubator.github.io/fbt/) - Facebook's internationalization framework
+
 ### State Management
 - [redux](https://redux.js.org/) ⭐ - Predictable, unidirectional data flow state management based on the flux pattern
 - [mobx](https://mobx.js.org/) - Functional reactive programming state management
