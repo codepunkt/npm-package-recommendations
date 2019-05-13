@@ -1,10 +1,21 @@
 > A list of personal npm package recommendations and alternatives
 
 # Utility libraries
-- [date-fns](https://date-fns.org/) - Date utility library
-- [lodash](https://lodash.com/) - Generic utility library
+
+## Dates
+- [date-fns](https://date-fns.org/) ⭐ - Date utility library
+- [moment.js](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times
+
+## Generic
+- [lodash](https://lodash.com/) ⭐ - Generic utility library
 - [ramda](https://ramdajs.com/) - Functional utility library
+
+## Styling
 - [polished](https://polished.js.org/) - Styling utility library
+
+## Mocking/Faking
+- [faker](https://github.com/marak/Faker.js/) ⭐ - generate realistic fake data in Node.js and the browser
+- [casual](https://github.com/boo1ean/casual) - fake data generator for javascript
 
 # Frontend
 
