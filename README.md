@@ -46,6 +46,7 @@
 
 #### Component libraries
 - [material-ui](https://material-ui.com/) ⭐ - React components that implement Google's material design
+- [reakit](https://reakit.io/) ⭐ - Accessible, composable components that implement the WAI-ARIA 1.1 standards
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
 - [atlaskit](https://atlaskit.atlassian.com/) - Technical implementation of Atlassians UI guidelines as React components
 - [blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web
