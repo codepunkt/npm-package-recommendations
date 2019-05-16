@@ -154,6 +154,11 @@
 - [winston](https://github.com/winstonjs/winston) - Universal logging library, useable with multiple transports
 - [pino](https://getpino.io/) - Low overhead logging with a focus on performance
 
+## CLI
+- [yargs](https://yargs.js.org/) - Yargs helps you build interactive command line tools and parses arguments
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
+- [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts
+
 # Tooling
 
 ## Commandline
