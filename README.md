@@ -159,6 +159,7 @@
 - [yargs](https://yargs.js.org/) - Yargs helps you build interactive command line tools and parses arguments
 - [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts
+- [cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 
 # Tooling
 
