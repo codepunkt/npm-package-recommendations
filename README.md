@@ -9,6 +9,7 @@
 ## Generic
 - [lodash](https://lodash.com/) ⭐ - Generic utility library
 - [ramda](https://ramdajs.com/) - Functional utility library
+- [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects
 
 ## Styling
 - [polished](https://polished.js.org/) - Styling utility library
