@@ -52,6 +52,7 @@
 - [atlaskit](https://atlaskit.atlassian.com/) - Technical implementation of Atlassians UI guidelines as React components
 - [blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web
 - [react-bootstrap](https://react-bootstrap.github.io/) - React components for the most used CSS library in the world
+- [smooth-ui](https://smooth-ui.smooth-code.com/) - Style system & UI library that works with styled-components or emotion
 
 #### Data visualization
 - [nivo](https://nivo.rocks/) ⭐ - Rich set of dataviz components, built on top of d3
