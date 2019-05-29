@@ -68,6 +68,7 @@
 #### Virtualization
 - [react-window](https://github.com/bvaughn/react-window) ⭐ - Components for efficiently rendering large lists and tabular data
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - Components for efficiently rendering large lists and tabular data
+- [react-virtuoso](https://virtuoso.dev/) - virtualized list component that can handle variable heights, sticky group headers and content resizing
 
 #### Tables/datagrids
 - [reactabular](https://reactabular.js.org) - A framework for building the React table you need
