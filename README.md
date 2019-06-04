@@ -169,6 +169,9 @@
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Human readable terminal diffs
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages
 
+## Load testing
+- [autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool
+
 ## Project
 > JavaScript project tooling
 
