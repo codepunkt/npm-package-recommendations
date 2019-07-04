@@ -20,6 +20,9 @@
 
 # Frontend
 
+## Misc
+- [what-input](https://github.com/ten1seven/what-input) - utility for tracking the current input method (mouse/pointer, keyboard or touch). can be used to provide outlines for keyboard usage and kinda act like a polyfill for :focus-visible
+
 ## Data visualization
 - [d3](https://d3js.org/) - Data visualization library
 
