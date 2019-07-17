@@ -46,7 +46,7 @@
 - [next.js](https://nextjs.org/) - Server-rendered react framework
 
 ### Static site generators
-- [gatsby](https://www.gatsbyjs.org/) - Site generator for React
+- [gatsby](https://www.gatsbyjs.org/) ⭐ - Site generator for React
 - [react-static](https://github.com/nozzle/react-static) - A progressive static site generator for React
 - [phenomic](https://phenomic.io) - Modular website compiler
 
