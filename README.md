@@ -18,6 +18,10 @@
 - [faker](https://github.com/marak/Faker.js/) ⭐ - generate realistic fake data in Node.js and the browser
 - [casual](https://github.com/boo1ean/casual) - fake data generator for javascript
 
+## AST-based transformations
+- [remark](https://github.com/remarkjs/remark) - Plugin-based markdown processor that can generate and transform markdown
+- [rehype](https://github.com/rehypejs/rehype) - Plugin-based HTML processor that can generate and transform HTML
+
 # Frontend
 
 ## Misc
