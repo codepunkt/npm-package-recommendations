@@ -38,6 +38,9 @@
 - [three.js](https://threejs.org/) - JavaScript 3D library
 - [fabric.js](http://fabricjs.com/) - Powerful and simple 2D canvas library
 
+## Editing
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors
+
 ## React
 
 ### Boilerplates
