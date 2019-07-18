@@ -18,10 +18,6 @@
 - [faker](https://github.com/marak/Faker.js/) ⭐ - generate realistic fake data in Node.js and the browser
 - [casual](https://github.com/boo1ean/casual) - fake data generator for javascript
 
-## AST-based transformations
-- [remark](https://github.com/remarkjs/remark) - Plugin-based markdown processor that can generate and transform markdown
-- [rehype](https://github.com/rehypejs/rehype) - Plugin-based HTML processor that can generate and transform HTML
-
 # Frontend
 
 ## Misc
@@ -174,6 +170,13 @@
 - [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 - [enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts
 - [cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
+
+## Image processing
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing
+
+## AST-based transformations
+- [remark](https://github.com/remarkjs/remark) - Plugin-based markdown processor that can generate and transform markdown
+- [rehype](https://github.com/rehypejs/rehype) - Plugin-based HTML processor that can generate and transform HTML
 
 # Tooling
 
