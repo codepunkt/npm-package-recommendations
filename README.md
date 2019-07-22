@@ -135,8 +135,9 @@
 - [urql](https://github.com/FormidableLabs/urql) - Customizable GraphQL client for react
 - [graphql-code-generator](https://graphql-code-generator.com/) - Generate code from your graphql schema
 
-## XHR
-- [axios](https://github.com/axios/axios) ⭐ - Promise-based http client with a lot of options
+## fetch/XHR
+- [ky](https://github.com/sindresorhus/ky) ⭐ - Tiny and elegant HTTP client based on the browser Fetch API
+- [axios](https://github.com/axios/axios) ⭐ - Promise-based XHR client with a lot of options
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [make-fetch-happen](https://github.com/zkat/make-fetch-happen) - Nodejs fetch with HTTP Cache support, request pooling, proxies, retries etc
 - [needle](https://github.com/tomas/needle) - Streamable HTTP client
