@@ -78,6 +78,7 @@
 - [react-virtuoso](https://virtuoso.dev/) - virtualized list component that can handle variable heights, sticky group headers and content resizing
 
 #### Tables/datagrids
+- [react-table](https://github.com/tannerlinsley/react-table) - Hooks for building fast and extendable tables and datagrids for React
 - [reactabular](https://reactabular.js.org) - A framework for building the React table you need
 - [ag-grid](https://github.com/ag-grid/ag-grid) - Fully features, highly customizable data grid. Free and enterprise versions 
 
