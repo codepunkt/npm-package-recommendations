@@ -71,6 +71,7 @@
 #### Maps
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) ⭐ - ReactJS maps without external dependencies
 - [react-leaflet](https://react-leaflet.js.org/) - An abstraction of Leaflet as React components
+- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - React wrapper for mapbox-gl-js
 
 #### Virtualization
 - [react-window](https://github.com/bvaughn/react-window) ⭐ - Components for efficiently rendering large lists and tabular data
