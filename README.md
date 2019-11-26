@@ -55,6 +55,7 @@
 - [material-ui](https://material-ui.com/) ⭐ - React components that implement Google's material design
 - [reakit](https://reakit.io/) ⭐ - Accessible, composable components that implement the WAI-ARIA 1.1 standards
 - [eui](https://github.com/elastic/eui) ⭐ - Design library in use at Elastic to build internal products
+- [chakra ui](https://chakra-ui.com/) - Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need
 - [antd](https://ant.design/docs/react/introduce) - React UI library that contains a set of high quality components and demos following the Ant Design specification
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
 - [atlaskit](https://atlaskit.atlassian.com/) - Technical implementation of Atlassians UI guidelines as React components
