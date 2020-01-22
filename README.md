@@ -124,8 +124,8 @@
 - [redux-observable](https://redux-observable.js.org/) - RxJS based middleware for redux
 
 ### Animations
-- [react-pose](https://popmotion.io/pose/) ⭐ - A simple, CSS-like animation library
-- [react-spring](https://redux-observable.js.org/) - A spring physics based React animation library
+- [react-spring](https://redux-observable.js.org/) ⭐ - A spring physics based React animation library
+- [framer-motion](https://www.framer.com/motion/) - A simple, CSS-like animation library
 
 # Testing
 
