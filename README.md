@@ -9,7 +9,11 @@
 ## Generic
 - [lodash](https://lodash.com/) ⭐ - Generic utility library
 - [ramda](https://ramdajs.com/) - Functional utility library
+
+## Validation
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+- [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## Styling
 - [polished](https://polished.js.org/) - Styling utility library
