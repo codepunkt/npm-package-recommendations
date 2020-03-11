@@ -114,6 +114,7 @@
 ### Forms
 - [formik](https://jaredpalmer.com/formik/) ⭐ - Build forms in React, without the tears
 - [react-final-form](https://github.com/final-form/react-final-form) ⭐ - High performance subscription-based form state management for React
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 - [redux-form](https://redux-form.com/8.1.0/) - Form handling for redux
 
 ### I18N
