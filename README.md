@@ -49,6 +49,9 @@
 - [react-static](https://github.com/nozzle/react-static) - A progressive static site generator for React
 - [phenomic](https://phenomic.io) - Modular website compiler
 
+### Hook Collections
+- [beautiful-react-hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - A collection of beautiful and (hopefully) useful React hooks
+
 ### Components
 
 #### Component libraries
