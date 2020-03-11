@@ -130,6 +130,10 @@
 - [react-spring](https://redux-observable.js.org/) ⭐ - A spring physics based React animation library
 - [framer-motion](https://www.framer.com/motion/) - A simple, CSS-like animation library
 
+### Data fetching
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+- [swr](https://swr.now.sh/) - React Hooks for Remote Data Fetching
+
 # Testing
 
 - [jest](https://jestjs.io/) ⭐ - JavaScript testing framework
