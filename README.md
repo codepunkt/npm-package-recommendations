@@ -93,7 +93,7 @@
 - [react-media](https://github.com/ReactTraining/react-media) - CSS media queries for React
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, enhanced input React components
 - [react-joyride](https://react-joyride.com/) - Create guided tours for your apps
-- [react-aria-live] (https://github.com/AlmeroSteyn/react-aria-live) - ARIA live message announcer for React apps
+- [react-aria-live](https://github.com/AlmeroSteyn/react-aria-live) - ARIA live message announcer for React apps
 
 ### Component development
 - [storybook](https://storybook.js.org/) ⭐ - Developing UI components in isolation
