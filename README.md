@@ -56,8 +56,8 @@
 
 #### Component libraries
 - [material-ui](https://material-ui.com/) ⭐ - React components that implement Google's material design
-- [reakit](https://reakit.io/) ⭐ - Accessible, composable components that implement the WAI-ARIA 1.1 standards
-- [eui](https://github.com/elastic/eui) ⭐ - Design library in use at Elastic to build internal products
+- [reakit](https://reakit.io/) - Accessible, composable components that implement the WAI-ARIA 1.1 standards
+- [eui](https://github.com/elastic/eui) - Design library in use at Elastic to build internal products
 - [chakra ui](https://chakra-ui.com/) - Chakra UI is a simple, modular and accessible component library that gives you all the building blocks you need
 - [antd](https://ant.design/docs/react/introduce) - React UI library that contains a set of high quality components and demos following the Ant Design specification
 - [office-ui-fabric](https://developer.microsoft.com/en-us/fabric#/components) - Official component library to build experiences that fit seamlessly into Office and Office 365
@@ -112,8 +112,8 @@
 - [rebass](https://rebassjs.org/) - React primitive UI components built with styled-system
 
 ### Forms
-- [formik](https://jaredpalmer.com/formik/) ⭐ - Most widely adopted form library
-- [react-final-form](https://github.com/final-form/react-final-form) - Alternative form library
+- [formik](https://jaredpalmer.com/formik/) ⭐ - Build forms in React, without the tears
+- [react-final-form](https://github.com/final-form/react-final-form) ⭐ - High performance subscription-based form state management for React
 - [redux-form](https://redux-form.com/8.1.0/) - Form handling for redux
 
 ### I18N
@@ -147,8 +147,8 @@
 - [graphql-code-generator](https://graphql-code-generator.com/) - Generate code from your graphql schema
 
 ## fetch/XHR
-- [ky](https://github.com/sindresorhus/ky) ⭐ - Tiny and elegant HTTP client based on the browser Fetch API
 - [axios](https://github.com/axios/axios) ⭐ - Promise-based XHR client with a lot of options
+- [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native
 - [make-fetch-happen](https://github.com/zkat/make-fetch-happen) - Nodejs fetch with HTTP Cache support, request pooling, proxies, retries etc
 - [needle](https://github.com/tomas/needle) - Streamable HTTP client
