@@ -36,6 +36,7 @@
 
 ## Canvas
 - [three.js](https://threejs.org/) - JavaScript 3D library
+- [babylon.js](https://www.babylonjs.com/) - JavaScript 3D library
 - [fabric.js](http://fabricjs.com/) - Powerful and simple 2D canvas library
 
 ## Editing
