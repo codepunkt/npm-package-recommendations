@@ -140,6 +140,10 @@
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [swr](https://swr.now.sh/) - React Hooks for Remote Data Fetching
 
+### 3D
+
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber) - a react renderer for three.js 
+
 # Testing
 
 - [jest](https://jestjs.io/) ⭐ - JavaScript testing framework
